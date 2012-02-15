@@ -1,2 +1,3 @@
 text in myFile
 text in myFile line 2
+text in myFile line 3
