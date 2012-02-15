@@ -1,1 +1,2 @@
 text in myFile
+text in myFile line 2
